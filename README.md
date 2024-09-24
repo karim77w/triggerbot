@@ -3,11 +3,11 @@
 
 triggerbot
 
-#Features
+# Features
 delay
 flickbot
 
-#misc
+# misc
 hides strings ( incase of pc check)
 
 #App setup

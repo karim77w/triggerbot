@@ -11,7 +11,6 @@ flickbot
 # misc
 hides strings ( incase of pc check)
 
-Hidden Icon: The icon may be hidden in the system tray
 
 Runs in the back
 
